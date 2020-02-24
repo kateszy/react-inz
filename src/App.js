@@ -1,26 +1,55 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Navbar from './components/Navbar'
+import Main from './components/Main'
+import Footer from './components/Footer'
+import Category from './components/Category'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+class App extends React.Component {
+
+  state = {
+    currentComponent: 'main',
+    currentCategory: ''
+  }
+
+  constructor(props) {
+    super(props);
+  }
+
+  handler = (component, category) => {
+    this.setState({
+      currentComponent: component,
+      currentCategory: category
+    })
+  }
+
+
+  getComponent() {
+    let component;
+    switch (this.state.currentComponent) {
+      case 'main':
+        component = <Main/>;
+        break;
+      case 'category':
+        component = <Category chosenCategory={this.state.currentCategory} />;
+        break;
+    }
+    return component;
+  }
+
+  render() {
+    return (
+      <div className="App">
+        <header className="App-header">
+          <Navbar handler={this.handler}/>
+          {this.getComponent()}
+          <Footer/>
+        </header>
+        
+      </div>
+    );
+  }
 }
-
 export default App;

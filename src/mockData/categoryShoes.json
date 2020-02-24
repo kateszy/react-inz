@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "title": "sint",
+    "price": 205.15,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Lorem laboris irure qui occaecat do sunt irure nostrud non incididunt magna.",
+    "category": "shoes",
+    "brand": "prada"
+  },
+  {
+    "id": 1,
+    "title": "labore",
+    "price": 15.8,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Aute sint cupidatat duis Lorem id qui elit labore officia.",
+    "category": "shoes",
+    "brand": "nike"
+  },
+  {
+    "id": 2,
+    "title": "occaecat",
+    "price": 193.04,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Commodo sunt incididunt dolor pariatur cupidatat.",
+    "category": "shoes",
+    "brand": "h&m"
+  },
+  {
+    "id": 3,
+    "title": "officia",
+    "price": 45.4,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Cupidatat enim labore excepteur id reprehenderit velit fugiat.",
+    "category": "shoes",
+    "brand": "prada"
+  },
+  {
+    "id": 4,
+    "title": "nulla",
+    "price": 205.95,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Enim reprehenderit occaecat deserunt cupidatat culpa est non minim laborum irure.",
+    "category": "shoes",
+    "brand": "h&m"
+  },
+  {
+    "id": 5,
+    "title": "reprehenderit",
+    "price": 331.12,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Adipisicing consectetur adipisicing dolore ad labore esse.",
+    "category": "shoes",
+    "brand": "prada"
+  },
+  {
+    "id": 6,
+    "title": "cupidatat",
+    "price": 265.18,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Et id excepteur mollit do ea non exercitation nulla quis ipsum Lorem ad et.",
+    "category": "shoes",
+    "brand": "nike"
+  },
+  {
+    "id": 7,
+    "title": "est",
+    "price": 208.81,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Fugiat consectetur nisi esse pariatur enim irure irure esse deserunt quis proident adipisicing eiusmod culpa.",
+    "category": "shoes",
+    "brand": "prada"
+  },
+  {
+    "id": 8,
+    "title": "fugiat",
+    "price": 375.62,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Amet ea commodo mollit ex consequat aliquip laborum adipisicing nostrud occaecat sint quis.",
+    "category": "shoes",
+    "brand": "prada"
+  },
+  {
+    "id": 9,
+    "title": "dolor",
+    "price": 261.45,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Dolor in proident laborum irure laboris ullamco eu.",
+    "category": "shoes",
+    "brand": "nike"
+  },
+  {
+    "id": 10,
+    "title": "cupidatat",
+    "price": 174.7,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Non amet magna exercitation amet anim consequat aliquip.",
+    "category": "shoes",
+    "brand": "prada"
+  },
+  {
+    "id": 11,
+    "title": "nulla",
+    "price": 355.1,
+    "picture": "https://static.supersklep.pl/1012754-tshirt-vans-left-chest-logo-black-white-w1920w.jpg",
+    "about": "Mollit ut occaecat veniam dolore nulla incididunt eiusmod aliquip Lorem eiusmod minim ad.",
+    "category": "shoes",
+    "brand": "h&m"
+  }
+]
